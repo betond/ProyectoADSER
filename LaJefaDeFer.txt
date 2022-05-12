@@ -1,0 +1,17 @@
+-5 routers
+
+-OSPF (tentativo)
+
+-servicios 
+  -SNMP
+  -DHCP
+  -TFTP
+  -DNS
+  -Correo electronico
+  
+-3 Servidores virtuales
+
+-3 areas de gestion
+  -Gestion de Fallos
+  -Gestion de Segurida
+  -Gestion de de Rendimiento
