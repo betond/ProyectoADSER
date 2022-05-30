@@ -1,0 +1,16 @@
+Comando de IP a PC
+ip <direccion ip> <mascara> <gateway>
+NOTA: gateway es la direccion del puerto del router
+
+
+
+ospf 2
+area 0 - 3
+
+
+
+GNS3 server AZURE
+HOST: adser-dns.eastus2.cloudapp.azure.com
+PUERTO: 3080 TCP
+USUARIO: ubuntu
+Contraseña: REDESequipo2
