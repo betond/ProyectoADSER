@@ -6,7 +6,7 @@
   -SNMP
   -DHCP
   -TFTP    --------------------------------------------------- Ya esta este pedo
-  -DNS
+  -DNS     --------------------------------------------------- Ya casi
   -Correo electronico
   
 -3 Servidores virtuales
